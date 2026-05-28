@@ -35,9 +35,11 @@ force applied.
 
 
 # TABLE
-<img width="978" height="408" alt="image" src="https://github.com/user-attachments/assets/217a997b-b246-4af2-8d4c-47650c2eb564" />
+<img width="1151" height="1600" alt="image" src="https://github.com/user-attachments/assets/0cb5ed9b-e03b-41a2-9058-d61de4993d85" />
 
 # GRAPH:
+<img width="1216" height="1600" alt="image" src="https://github.com/user-attachments/assets/2cd22ed0-ba33-4f28-b3fc-5df0d50d2df5" />
+<img width="1224" height="1600" alt="image" src="https://github.com/user-attachments/assets/3ac32f0f-ef67-4b6d-83b3-b19a45829421" />
 
 
 # RESULT
