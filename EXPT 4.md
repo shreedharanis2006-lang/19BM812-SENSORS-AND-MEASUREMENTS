@@ -58,7 +58,8 @@ Draw the graph of Thermometer reading Vs meter reading.
 
 
 # GRAPH:
-<img width="1512" height="1340" alt="WhatsApp Image 2026-05-28 at 7 42 42 PM" src="https://github.com/user-attachments/assets/6d657f4f-5819-46e5-b2cc-5182081790d0" />
+<img width="1241" height="1600" alt="image" src="https://github.com/user-attachments/assets/03ada7cb-74c9-4985-8e39-da8824cceafa" />
+
 
 
 
