@@ -47,7 +47,8 @@ reading. Tabulate the readings as shown below
 
 
 # OBSERVATIONS
-<img width="1066" height="822" alt="image" src="https://github.com/user-attachments/assets/61aa9fe3-edae-40a0-ad7d-87c2c8afbbe3" />
+<img width="1512" height="1340" alt="WhatsApp Image 2026-05-28 at 7 42 42 PM" src="https://github.com/user-attachments/assets/3d95bcbf-ad0b-471b-bece-1a53908d38f4" />
+
 
 
 # MODEL GRAPH
@@ -57,6 +58,8 @@ Draw the graph of Thermometer reading Vs meter reading.
 
 
 # GRAPH:
+<img width="1512" height="1340" alt="WhatsApp Image 2026-05-28 at 7 42 42 PM" src="https://github.com/user-attachments/assets/6d657f4f-5819-46e5-b2cc-5182081790d0" />
+
 
 
 # RESULT
